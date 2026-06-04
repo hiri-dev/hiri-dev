@@ -26,4 +26,4 @@ I prefer understanding the problem and data model before implementation.
 
 ## Find Me
 
-GitHub: github.com/hiri-dev
+GitHub:github.com/hiri-dev
