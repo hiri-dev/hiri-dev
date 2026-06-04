@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey, I'm Hiri 👋
 
-<!--
-**hiri-dev/hiri-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer focused on Python.
 
-Here are some ideas to get you started:
+Interested in APIs, automation, databases, and backend systems. Currently building projects to deepen practical backend skills and seeking junior backend roles and internships.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Current Focus
+
+- Python
+- API development
+- Automation
+- Databases
+- Linux
+- System design basics
+
+---
+
+## Philosophy
+
+I focus on simple, predictable systems with clear data flow.  
+I prefer understanding the problem and data model before implementation.
+
+---
+
+## Find Me
+
+GitHub: github.com/hiri-dev
