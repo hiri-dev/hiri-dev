@@ -1,18 +1,17 @@
 # Hey, I'm Hiri 👋
 
-Backend developer focused on Python.
-
-Interested in APIs, automation, databases, and backend systems. Currently building projects to deepen practical backend skills and seeking junior backend roles and internships.
+Fullstack developer. Interested in APIs, automation, databases, design, frontend and backend systems. Currently building projects to deepen practical skills and seeking junior backend roles and internships.
 
 ## Current Focus
 
+- Backend
+- Frontend
 - Python
 - API development
 - Automation
 - Databases
 - Linux
-- System design basics
-
+- 
 ## Philosophy
 
 I focus on simple, predictable systems with clear data flow.  
